@@ -1,0 +1,13 @@
+2024/04/07 - 12:04:48 [INFO] - Severino Builder - Initializing logger module under process 45160 and local as environment.
+2024/04/07 - 12:04:49 [INFO] - Initializing DynamicRoutes.
+2024/04/07 - 12:04:49 [INFO] - Initializing QueryParam.
+2024/04/07 - 12:04:49 [INFO] - Severino Builder - Dynamic QueryParamController Controller() - Initializing loadRoutes().
+2024/04/07 - 12:04:50 [INFO] - Initializing QueryBuilder.
+2024/04/07 - 12:04:50 [INFO] - Severino Builder - Dynamic QueryParamController Controller() - Initializing loadRoutes().
+2024/04/07 - 12:04:50 [INFO] - Severino is about to up the server on port 6665
+2024/04/07 - 12:04:49 [INFO] - Severino Builder - Dynamic TableRoutes Controller() - Initializing loadRoutes().
+2024/04/07 - 12:04:49 [INFO] - Initializing StaticRoutes.
+2024/04/07 - 12:04:52 [INFO] - DynamicRoutes loaded.
+2024/04/07 - 12:04:52 [INFO] - QueryParam loaded.
+2024/04/07 - 12:04:52 [INFO] - QueryParam loaded.
+2024/04/07 - 12:04:57 [INFO] - Response sent to client.

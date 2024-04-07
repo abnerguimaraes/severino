@@ -1,0 +1,10 @@
+{
+  "general": {
+    "port": "6665",
+    "log": {
+      "maxSize": "1232000",
+      "logPath": "./logs/log_file.log",
+      "logBkPath": "./logs/log_file_bk.log"
+    }
+  }
+}

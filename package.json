@@ -1,0 +1,22 @@
+{
+  "name": "severino",
+  "version": "1.0.0",
+  "description": "Gereric Query Builder to Fetch Data from Postgres",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon --ext \"ts,js\" src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && cp -R logs/ dist/logs/ && cp -R conf/ dist/conf/",
+    "start": "node --max-old-space-size=6144 dist/index.js"
+  },
+  "author": "Abner Guimarães",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.11.5",
+    "sequelize": "^6.37.2",
+    "typescript": "^5.4.4"
+  }
+}
